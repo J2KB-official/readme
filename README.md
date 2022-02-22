@@ -1,5 +1,16 @@
-
 # J2KB Guide Book
+
+<div align=center>
+    
+![author](https://img.shields.io/badge/author-j2kb-yellow)
+[![LICENSE](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ2KB-official%2Freadme&count_bg=%237468CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://github.com/J2KB-official/readme/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=J2KB-official/readme">
+</a>
+    
+</div>
 
 ## 언어
     기초 언어(C/C++, Java, Python)을 배울 때에는 동기부여를 위해 문서보다는 강의를 추천드립니다. 입문자의 경우 문서를 혼자 따라해보다가 안하게 될 가능성이 높습니다.
