@@ -90,13 +90,13 @@
   **유용한 사이트**  
   [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)  
   [SqlProblem](http://ww1.sqlproblem.net/)  
-  - SQL 문법을 빠르게 훑어보기 좋은 문제풀이 사이트입니다.  
+  SQL 문법을 빠르게 훑어보기 좋은 문제풀이 사이트입니다.  
   [프로그래머스 SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
-  - 기초적인 SELECT문부터 어려운 JOIN문까지의 실습 문제를 제공합니다.
+  기초적인 SELECT문부터 어려운 JOIN문까지의 실습 문제를 제공합니다.
 
   **강의**  
   [생활코딩 MySQL](https://opentutorials.org/course/195)  
-  - 실질적인 SQL 사용법에 대한 인터넷 강의를 포함하여, 여러 강의자료를 업로드하고 있습니다.
+  실질적인 SQL 사용법에 대한 인터넷 강의를 포함하여, 여러 강의자료를 업로드하고 있습니다.
   
 
 # Git
