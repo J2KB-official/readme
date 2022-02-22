@@ -83,7 +83,7 @@
 * 개발분야
   - 라즈베리파이(임베디드)
   - 간단한 게임(Pygame)
-  - 웹백엔드(Django, Flask)
+  - 웹백엔드(Django,Flask)
   - 데이터사이언스(Pandas, Numpy, Matplotlib 등)
   - 인공지능(Scikit-Learn, Keras, Tensorflow, Pytorch 등)
 
