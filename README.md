@@ -1,7 +1,7 @@
 # J2KB Guide Book
 
 <div align=center>
-    
+
 ![author](https://img.shields.io/badge/author-j2kb-yellow)
 [![LICENSE](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)]
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ2KB-official%2Freadme&count_bg=%237468CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -9,25 +9,25 @@
 <a href="https://github.com/J2KB-official/readme/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=J2KB-official/readme">
 </a>
-    
+
 </div>
 
 ## 언어
-    기초 언어(C/C++, Java, Python)을 배울 때에는 동기부여를 위해 문서보다는 강의를 추천드립니다. 
+    기초 언어(C/C++, Java, Python)을 배울 때에는 동기부여를 위해 문서보다는 강의를 추천드립니다.
     입문자의 경우 문서를 혼자 따라해보다가 안하게 될 가능성이 높습니다.
 
 ### c/c++
-    처음으로 배우는 거라면 동기부여를 위해 문서보다 강의를 추천드립니다. 문서는 혼자 따라해보다가 안하게 될 가능성이 높습니다. 
+    처음으로 배우는 거라면 동기부여를 위해 문서보다 강의를 추천드립니다. 문서는 혼자 따라해보다가 안하게 될 가능성이 높습니다.
     C++을 처음으로 배우지 않는 것을 추천하며, 국내 C++ 가이드가 미흡한 실정이므로 번역 서적을 위주로 공부하시면 되겠습니다.
 
-    C++을 공부하고 싶으면 Effective C++, Windows via c/c++ 같은 책을 먼저 보기를 바랍니다. 
-    임베디드, 게임개발 분야에 관심이 있는 분들은 C++을 메인 언어로 공부하시게 됩니다. 
+    C++을 공부하고 싶으면 Effective C++, Windows via c/c++ 같은 책을 먼저 보기를 바랍니다.
+    임베디드, 게임개발 분야에 관심이 있는 분들은 C++을 메인 언어로 공부하시게 됩니다.
     C++은 기본적으로 실행 속도가 빠르기 때문에 국내외 알고리즘 대회에 입상 이상으로 관심이 있는 분들도 주의깊게 공부하시면 좋겠습니다.
 
 * 추천 강의,문서
-  1. [유투브 강의 - 무료] 두들낙서의 C/C++ 강좌 
-  2. [문서 - C] 모두의 코드 씹어먹는 C 
-  3. [문서 - C++] 모두의 코드 씹어먹는 C++ 
+  1. [유투브 강의 - 무료] 두들낙서의 C/C++ 강좌
+  2. [문서 - C] 모두의 코드 씹어먹는 C
+  3. [문서 - C++] 모두의 코드 씹어먹는 C++
 
 ### Go
 내용
@@ -54,8 +54,8 @@
 ---
 
 * 추천 강의,서적
-  1. [강의 - 부스트코스 - 무료] 모두를 위한 파이썬(PY4E) 
-  2. [강의 - 부스트코스 - 무료] 처음 배우는 프로그래밍(w.파이썬) 
+  1. [강의 - 부스트코스 - 무료] 모두를 위한 파이썬(PY4E)
+  2. [강의 - 부스트코스 - 무료] 처음 배우는 프로그래밍(w.파이썬)
   3. [강의 - 인프런 - 무료] 파이썬 무료 강의 (기본편) - 6시간 뒤면 나도 개발자 : 알찬 예제와 함께 파이썬의 기본 개념들을 훑을 수 있는 강의입니다. 기초 강의 수강 후에는 파이썬의 여러 활용 분야 별로 실습 프로젝트를 해볼 수 있는 활용편 강의를 추천드립니다.
   4. [서적 - 유/무료] Do it! 점프 투 파이썬 : 파이썬 기본서로는 매우 유명한 책입니다. 기본을 쌓기에 매우 좋은 책!
 
@@ -67,19 +67,81 @@
 
 ## FE
 ### react
-내용
+
+  1. [무료] ReactJS로 영화 웹 서비스 만들기
+ReactJS에 입문하기 좋은 강의입니다.
+  2.  [무료] 따라하며 배우는 노드, 리액트 - 기본 강의
+  3. [무료] 따라하며 배우는 노드, 리액트 - 유튜브 사이트 만들기
+  4. [유료] 따라하며 배우는 노드, 리액트 - 쇼핑몰 사이트 만들기
+Node.js + React가 섞여 있는 강의입니다. 강의 짜임새가 잘 되어 있기 때문에 기본 강의 정도는 꼭 들어 보는 것을 추천합니다.
+  5. [무료] 실전형 리액트 Hooks 10개
+계속 들고 가는 지식은 useState, useEffect 정도이지만 가볍게 react hook를 구할 수 있어서 넣었습니다.
+  6. [무료] 트위터 클론코딩
+React 코딩 + Firebase를 약간 맛보실 수 있습니다.
+
 ### vue.js
-내용
+
+추천 강의
+  1.  [사이트] 실무에서 사용하는 Vue.js 프로젝트 구조
+  2. [강의 - 인프런 - 유료] Vue.js 시작하기 - Age of Vue.js
+  3. [서적] Do it! Vue.js 입문
+  4. [강의 - 유튜브 - 무료] https://youtube.com/playlist?list=PLcqDmjxt30RsdnPeU0ogHFMoggSQ_d7ao
 
 ## BE
 ### spring
-내용
+
+추천 서적
+  1. [서적] 토비의 스프링 : 최소한 입문 강의는 뗀 분들이 읽으셔야 합니다. 절대 입문도서가 아닙니다.
+  2. [서적] 스프링 부트와 AWS 혼자 구현하는 웹 서비스 : 웹 서비스의 모든 과정을 한번 경험해 볼 수 있는 좋은 책입니다.
+  3. [서적] 예제로 배우는 스프링 입문 (개정판)
+
+추천 강의
+  로드맵에 정답은 없지만, Spring Boot - Spring MVC - 그외 배워보고 싶은 여러 프레임워크(ex. JPA, Batch 등)으로 진행하시면 됩니다. 최근(2021년 기준) JPA를 쓰는 기업이 늘어났으니, 한 번쯤 들어보시면 좋을 듯 합니다.
+
+  1. [강의 - 유료]
+    인프런 내에서 김영한님 강의 vs 백기선님 강의 로 취향이 많이 갈리는 편입니다. 두분 다 무료 입문강의 들어보시고 결정해보시면 됩니다.
+    김영한님 강의의 경우에는 실무 꿀팁을 섞어가며 너무 깊지 않게 설명하시는 편이고, 백기선님 강의의 경우에는 디버깅을 통해 정확하고 디테일한 동작을 살피시는 편입니다. 개인적으로, 입문자라면 김영한님 강의를, 실무경험자라면 백기선님 강의를 추천합니다.
+    인프런 우아한형제들 개발팀장 김영한의 스프링 완전 정복 로드맵
+    - [무료] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+    - [유료] 스프링 핵심 원리 - 기본편
+    - [유료] 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+    - 마이크로소프트 개발자가 알려주는 자바 스프링 완전정복 로드맵
+
+추천 사이트
+  1. Spring 공식 문서 : 최고의 교본은 공식 문서입니다!
+  2. Hello World! | 토리맘의 한글라이즈 프로젝트 : 각종 공식 문서를 번역한 git 입니다.
+  3. Spring Initializr : 각종 예제 프로젝트에서 자주 사용하게 될 스프링 이니셜라이저입니다.
 ### django
-내용
+
+추천 강의
+  1. [강의 - 인프런 - 무료] Django 초보 가이드 - 실습을 통해 알아보는 장고 입문
+1시간 9분짜리 짧은 강의여서 많은 것을 배우기보단 Django를 체험해볼 수 있는 강의입니다.
+  2. [강의 - 인프런 - 유료] 파이썬으로 장고(Django) 공략하기 : 입문
+유료이긴하나 Django의 큰 그림을 배울 수 있는 강의입니다. 이 강의를 통해 다음엔 무슨 공부를 해야할지 감을 잡을 수 있을 거라고 생각됩니다.
+  3. [강의 - 프로그래머스 - 무료] 장고를 활용한 웹사이트 만들기
+2시간 정도의 강의여서 깊은 부분을 배울 수 있다곤 할 수 없지만 짧은 시간에 넓게 배워볼 수 있다는 장점이 있습니다.
+  4. [서적 - 유무료] Do it! 점프 투 장고
+Do it! 시리즈는 모두 괜찮은 평을 받고 있습니다. 파이보라는 홈페이지를 직접 만들어가면서 배운다는 점에서 추천드립니다.
+  5. [유용한 사이트] 장고걸스 튜토리얼
+장고걸스 튜토리얼은 간단한 블로그를 만들 수 있도록 튜토리얼을 제공합니다. 매우 괜찮은 튜토리얼중 하나입니다.
+
+
 ### node.js+express
-내용
-### java
-내용
+
+추천 강의
+
+  [강의 - 생활코딩 - 무료] WEB2 - Node.js
+자바 스크립트를 알고 계신다면 Node.js랑 App 부분만 보시면 됩니다.
+
+  [서적 - 유료] Node.js 교과서
+제가 아는 분은 모두 이책으로 Node를 시작하시더라구요.
+
+  [강의 - 인프런 -유료 ] [리뉴얼] Node.js 교과서 - 기본부터 프로젝트 실습까지
+많은 분들이 보시는 책인 Node.js 교과서 내용을 강의로 들어볼 수 있습니다. 조현영님 강의 진짜 좋다고 생각합니다.
+
+  [강의 - 구름 - 무료] 한 눈에 끝내는 Node.js
+바로 실습할 수 있다는 장점이 있어서 추가 했습니다.
+
 
 # Client
 
@@ -269,45 +331,45 @@
 ## CS
 ### OS
 #### 리눅스
-  **유용한 사이트**  
-  [리눅스 기초 용어 정리 및 개념](https://yoon-developer.tistory.com/41)  
+  **유용한 사이트**
+  [리눅스 기초 용어 정리 및 개념](https://yoon-developer.tistory.com/41)
   [리눅스란 무엇인가? 리눅스 사용법](https://m.blog.naver.com/sincc0715/221806244606)
-    
-  **강의**  
+
+  **강의**
   [생활코딩 리눅스 강좌](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C)
- 
-  **소소한 재미 Mac 터미널 꾸미기**  
-  [간단하게 Mac 터미널 꾸미기](https://velog.io/@hyunwoodev/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Mac-%ED%84%B0%EB%AF%B8%EB%84%90-%EA%BE%B8%EB%AF%B8%EA%B8%B0)  
+
+  **소소한 재미 Mac 터미널 꾸미기**
+  [간단하게 Mac 터미널 꾸미기](https://velog.io/@hyunwoodev/%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-Mac-%ED%84%B0%EB%AF%B8%EB%84%90-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
   [iTerm2로 터미널 커스텀하기](https://ooeunz.tistory.com/21)
 ### 네트워크
-  네크워크의 시작은 [TCP/UDP 통신](https://github.com/torvalds/linux/blob/master/net/ipv4/tcp.c) 방법을 이해하는 것입니다.  
-  [Packet](https://github.com/torvalds/linux/blob/master/include/linux/skbuff.h) 이라고 불리는 통신 단위를 이해하려면 해당 구조체를 봐야합니다.  
+  네크워크의 시작은 [TCP/UDP 통신](https://github.com/torvalds/linux/blob/master/net/ipv4/tcp.c) 방법을 이해하는 것입니다.
+  [Packet](https://github.com/torvalds/linux/blob/master/include/linux/skbuff.h) 이라고 불리는 통신 단위를 이해하려면 해당 구조체를 봐야합니다.
   그 다음은 운영체제에서 TCP를 어떻게 구현했는지를 봐야 합니다.
 
-  **추천 도서**  
+  **추천 도서**
   [IT 엔지니어를 위한 네트워크 입문](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=254155831)
 
-  **강의**  
+  **강의**
   [K-MOOC 네트워크](http://www.kmooc.kr/courses?search_query=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 ### 자료구조
-  자료구조를 가장 학습하기 좋은 방법은 실제 라이브러리의 구현을 파악하는 것입니다.  
-  책으로 학습을 원하면 [Introductions To Algorithms](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=560889) 과 같은 명저가 있습니다.  
+  자료구조를 가장 학습하기 좋은 방법은 실제 라이브러리의 구현을 파악하는 것입니다.
+  책으로 학습을 원하면 [Introductions To Algorithms](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=560889) 과 같은 명저가 있습니다.
   학부 과정의 기초 입문 서적을 원한다면 서점에서 [자료구조를 검색](https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord=%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0&x=0&y=0) 하시면 개론서적을 구입하실 수 있습니다.
 ### 데이터베이스
-  데이터베이스와 관련된 기본 지식은 다양한 [데이터베이스개론 서적들](https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4&x=0&y=0)을 이용해 쌓으시길 추천드립니다.  
+  데이터베이스와 관련된 기본 지식은 다양한 [데이터베이스개론 서적들](https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4&x=0&y=0)을 이용해 쌓으시길 추천드립니다.
   SQL의 경우에는 실습을 해보며 문법을 익히는 편이 좋습니다.
 
-  **유용한 사이트**  
-  [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)  
-  [SqlProblem](http://ww1.sqlproblem.net/)  
-  SQL 문법을 빠르게 훑어보기 좋은 문제풀이 사이트입니다.  
-  [프로그래머스 SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)  
+  **유용한 사이트**
+  [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+  [SqlProblem](http://ww1.sqlproblem.net/)
+  SQL 문법을 빠르게 훑어보기 좋은 문제풀이 사이트입니다.
+  [프로그래머스 SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
   기초적인 SELECT문부터 어려운 JOIN문까지의 실습 문제를 제공합니다.
 
-  **강의**  
-  [생활코딩 MySQL](https://opentutorials.org/course/195)  
+  **강의**
+  [생활코딩 MySQL](https://opentutorials.org/course/195)
   실질적인 SQL 사용법에 대한 인터넷 강의를 포함하여, 여러 강의자료를 업로드하고 있습니다.
-  
+
 
 # Git
 J2KB Uni-Con 참여자는 원활한 협업을 위하여 아래 Git & Github 관련 강의 중 최소 1가지 수강을 권장합니다.
