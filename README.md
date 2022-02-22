@@ -268,12 +268,42 @@
   
 
 # Git
-내용
+J2KB Uni-Con 참여자는 원활한 협업을 위하여 아래 Git & Github 관련 강의 중 최소 1가지 수강을 권장합니다.
+
+**강의 리스트**
+- [인프런 - 무료] [소스트리(source tree)를 사용하여 Git 사용하기](https://inf.run/HnFk)
+- [인프런 - 무료] [Git과 Github 시작하기](https://inf.run/K42G)
+- [생활코딩 - 무료] [프로젝트 관리](https://opentutorials.org/course/2708)
+
+
+**유용한 사이트**
+- [깃 커밋 메시지 컨벤션](https://doublesprogramming.tistory.com/256)
+- [Git 브랜치 전략](https://velog.io/@jinuku/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5)
+- [GitHub로 협업하는 방법[1] - Feature Branch Workflow](https://gmlwjd9405.github.io/2017/10/27/how-to-collaborate-on-GitHub-1.html)
+- [GitHub로 협업하는 방법[2] - Forking Workflow](https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html)
+- [초심자를 위한 Github 협업](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
+
 
 # 유용한 컨텐츠
-내용
+신입 개발자라면 놓치기 쉬운 여러 유용한 개발 관련 콘텐츠를 모았습니다.
+
 ## 사이트
-내용
-내용
+
+- [Git Repo - Interview Question for Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [Git Repo - Developer Roadmap](https://github.com/devJang/developer-roadmap)
+- [Git Repo - 국내 IT 및 개발자 컨퍼런스 영상의 다시보기](https://github.com/hibuz/dev-conf-replay)
+- [Git Repo - Reday For Tech Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)
+- [Git Repo - 용감한 친구들 - 개발자 컨퍼런스 & 콘텐츠 모음](https://github.com/brave-people)
+
 ## 추천 서적
-내용
+- [켄트 백 - 테스트 주도 개발](http://www.yes24.com/Product/Goods/12246033)
+- [클린코드](http://www.yes24.com/Product/Goods/91737015?OzSrank=1)
+- [이펙티브 자바 3/E](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788966262281)
+- [GoF의 디자인 패턴 :재사용성을 지닌 객체지향 소프트웨어의 핵심요소](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LAG&Kc=)
+  - 어느 정도 개발에 적응한 후 읽어보면 좋을 디자인 패턴 책입니다.
+- [리팩터링 : 코드 구조를 체계적으로 개선하여 효율적인 리팩터링 구현하기](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
+- [클린 아키텍처: 소프트웨어 구조와 설계의 원칙](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&barcode=9788966262472)
+- [객체지향의 사실과 오해 : 역할, 책임, 협력 관점에서 본 객체지향](http://www.yes24.com/Product/Goods/18249021)
+  - 객체지향 프로그래밍 입문자가 읽기에 좋습니다.
+- [한 권으로 읽는 컴퓨터 구조와 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909284&orderClick=LAG&Kc=#review)
+  - 비전공자 개발자가 읽으면 정말 좋은책, 컴퓨터 HW부터 SW AI까지 전체적으로 한번 짚어주는데, 어려운 부분도 있지만 읽고 나면 개발에 대한 전반적이고, 비전공자가 볼수 없었던 새로운 부분을 볼수 있는 책입니다.
