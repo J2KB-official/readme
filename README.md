@@ -21,7 +21,7 @@
 * 추천 강의
   1. [구름EDU](https://edu.goorm.io/lecture/2010/%ED%95%9C-%EB%88%88%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-%EA%B3%A0%EB%9E%AD-%EA%B8%B0%EC%B4%88) 한 눈에 끝내는 고랭 기초 고랭에 대핸 기본 문법들과 실전 프로젝트들을 제공하여 초보자가 시작하기 좋아보입니다.
   2. [웹사이트](http://golang.site/) 예제로 배우는 Go 프로그래밍 Go에 대한 기초, 활용, 팁, 퀴즈들을 제공해주는 사이트입니다.
-  3. [유튜브](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)Tucker Programming (한글 영상) Go의 초급부터 중급, 웹, 게임 등의 강의들을 제공하는 유튜브 채널입니다.
+  3. [유튜브](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)Tucker Programming (한글 영상) Go의 초급부터 중급, 웹, 게임 등의 강의들을 제공하는 유튜브 채널입니다!
     
          Go의 제일 괜찮은 가이드는 Go를 직접만든 롭파이크가 저술한 The Go Programming Languange를 봐야 합니다.
 
