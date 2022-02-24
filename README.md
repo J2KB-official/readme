@@ -23,7 +23,7 @@
   2. [웹사이트](http://golang.site/) 예제로 배우는 Go 프로그래밍 Go에 대한 기초, 활용, 팁, 퀴즈들을 제공해주는 사이트입니다.
   3. [유튜브](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)Tucker Programming (한글 영상) Go의 초급부터 중급, 웹, 게임 등의 강의들을 제공하는 유튜브 채널입니다!
     
-         Go의 제일 괜찮은 가이드는 Go를 직접만든 롭파이크가 저술한 The Go Programming Languange를 봐야 합니다.
+         Go의 제일 괜찮은 가이드는 Go를 직접만든 롭파이크가 저술한 The Go Programming Languange를 봐야 합니다
 
 ### html/cs
 * 추천강의
